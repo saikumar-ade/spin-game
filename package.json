@@ -1,0 +1,12 @@
+{
+  "name": "spin-game",
+  "version": "1.0.0",
+  "description": "Casino style spin game with JS frontend and backend",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
